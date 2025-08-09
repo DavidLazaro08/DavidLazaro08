@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 ¡Bienvenido a mi perfil!
+## 🗿 ¡Bienvenido a mi perfil!
 
 Soy **Desarrollador de Aplicaciones Multiplataforma (DAM)**, con proyectos en Java, JavaScript y HTML/CSS.  
 
