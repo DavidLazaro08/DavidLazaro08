@@ -23,8 +23,10 @@ Además, cuento con experiencia en **pedagogía, diseño gráfico y música**, l
 - 🎮 [GameJava-NoirCity](https://github.com/DavidLazaro08/GameJava-NoirCity) – Juego 2D en Java con estética noir.
 - 📝 [AppNotas-KeyBlock](https://github.com/DavidLazaro08/AppNotas-KeyBlock) – App de notas multiusuario con base de datos MySQL.
 - 🎵 [ProyectoWeb-Obsidian-Music](https://github.com/DavidLazaro08/ProyectoWeb-Obsidian-Music) – Plataforma web musical para explorar artistas y escuchar canciones.
-
----
+- 🎧 [HiddenSoundAtlas-BlogPHP](https://github.com/DavidLazaro08/HiddenSoundAtlas-BlogPHP) – The Blue Room | Blog PHP especializado en música alternativa y experimental.
+- 🛒 [StockManager](https://github.com/DavidLazaro08/StockManager) – Aplicación de escritorio para la gestión de inventario, productos, proveedores y movimientos de stock.
+- 🏋🏻‍♂️ [GymFortMoment](https://github.com/DavidLazaro08/GestionGym_GutierrezDavid) – Aplicación desarrollada en Python, centrada en la gestión interna de un gimnasio.
+- 💻 [FlytekStore](https://github.com/DavidLazaro08/StockManager) – Aplicación WPF desarollada en C# con conexión a SQL Server. Simula una tienda tecnológica.
 
 ## 💻 Tecnologías y herramientas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
