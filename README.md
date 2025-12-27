@@ -19,7 +19,8 @@ Además, cuento con experiencia en **pedagogía, diseño gráfico y música**, l
 ---
 
 ## 🎨 Proyectos destacados
-- 🖼️ [Visor3D-WebEnnde](https://github.com/DavidLazaro08/Visor3D-WebEnnde) – Visualizador web 3D interactivo con Three.js.
+- 🧿 [ProductCatalog3D-ReactThree](https://github.com/DavidLazaro08/ProductCatalog3D-ReactThree) – Catálogo de productos 3D interactivo desarrollado con React y Three.js.
+- 🖼️ [Visor3D-WebEnnde](https://github.com/DavidLazaro08/Visor3D-WebEnnde) – Visualizador web 3D interactivo con Three.js + tour comparativo de modelos glb.
 - 🎮 [GameJava-NoirCity](https://github.com/DavidLazaro08/GameJava-NoirCity) – Juego 2D en Java con estética noir.
 - 📝 [AppNotas-KeyBlock](https://github.com/DavidLazaro08/AppNotas-KeyBlock) – App de notas multiusuario con base de datos MySQL.
 - 🎵 [ProyectoWeb-Obsidian-Music](https://github.com/DavidLazaro08/ProyectoWeb-Obsidian-Music) – Plataforma web musical para explorar artistas y escuchar canciones.
