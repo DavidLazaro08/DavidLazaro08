@@ -1,10 +1,11 @@
 <!-- Nombre animado -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=650&lines=David+Lázaro;Desarrollador+Multiplataforma;Java+%7C+JavaScript+%7C+PHP+%7C+Python;Proyectos+Web%2C+3D+y+de+Escritorio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=650&lines=David+L%C3%A1zaro;Desarrollador+Multiplataforma;Java+%7C+JavaScript+%7C+PHP+%7C+Python;Proyectos+Web%2C+3D+y+de+Escritorio" alt="Typing SVG" />
   </a>
   <br>✨ <em>Construyendo ideas que mezclan código, arte y creatividad</em> ✨
 </p>
+
 
 ---
 
